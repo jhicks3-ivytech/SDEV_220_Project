@@ -1,1 +1,1 @@
-# SDEV_220_Project
+Tool Crib is program to help businesses manage their tools, assets, and supllies that are shared among associates of the company. The system gives the ability to maintain a database of the company's equipment. It also assigns temporary ownership of items to individuals by forcing check-out and check-in requirments to track and log tool usage.
